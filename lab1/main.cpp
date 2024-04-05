@@ -4,6 +4,8 @@
 #include <cstring>
 // #include "vector.hpp"
 
+//Private 
+
 const short CAP = 16;
 using ull = unsigned long long;
 
